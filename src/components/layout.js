@@ -30,7 +30,7 @@ const Layout = ({ children }) => (
           <html lang="nl-NL" />
         </Helmet>
         <Header siteTitle={siteMetadata.title} />
-        <main>{children}</main>
+        {children}
       </Fragment>
     )}
   />
