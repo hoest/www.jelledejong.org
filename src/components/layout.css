@@ -1,0 +1,42 @@
+body {
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #555555;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  color: #000000;
+}
+
+a {
+  color: #001f3f;
+  text-decoration: none;
+  background-image: linear-gradient(
+    -100deg,
+    rgba(255, 255, 255, 0),
+    yellow 85%,
+    rgba(255, 255, 255, 0)
+  );
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header,
+section {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}

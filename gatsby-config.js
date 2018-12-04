@@ -4,7 +4,8 @@ module.exports = {
     description:
       "Dit is de persoonlijke pagina van Jelle de Jong uit Soest, een Nederlandse (web)software ontwikkelaar.",
     keywords:
-      "jelle, de jong, jelle de jong, Soest, Nederland, web, internet, software, C#, csharp, net, dotnet, api, rest, graphql, javascript, typescript"
+      "jelle, de jong, jelle de jong, Soest, Nederland, web, internet, software, C#, csharp, net, dotnet, api, rest, graphql, javascript, typescript",
+    googleSiteVerification: "RUtFfgXVaFU-8yVndLk7v3ByQrTeLtGVVbzsOicRgE4"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
