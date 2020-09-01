@@ -38,13 +38,11 @@ const Layout = ({ children }) => (
             rel="stylesheet"
             href="//fonts.googleapis.com/css?family=Open+Sans|Roboto:400,300,100,500,700"
           />
-          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-          <script>{`
-            (adsbygoogle = window.adsbygoogle || []).push({
-              google_ad_client: "ca-pub-2308542917989831",
-            enable_page_level_ads: true
-            });
-          `}</script>
+          <script
+            data-ad-client="ca-pub-2308542917989831"
+            async
+            src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+          />
           <script type="text/javascript">{`
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject'] = r; i[r]=i[r]||function(){
               (i[r].q = i[r].q || []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
