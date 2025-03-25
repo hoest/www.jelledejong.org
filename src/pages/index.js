@@ -158,8 +158,7 @@ const IndexPage = () => (
         frontend.
       </p>
       <p>
-        Op dit moment (sinds juni 2016) ben ik actief als lid van het
-        managementteam van{" "}
+        Vanaf juni 2016 was ik actief als lid van het managementteam van{" "}
         <a
           href="https://www.twijg-it.nl/"
           target="_blank"
@@ -167,10 +166,17 @@ const IndexPage = () => (
         >
           Twijg IT
         </a>
-        , samen met mijn collega's zijn we verantwoordelijk voor de bouw van
+        , samen met mijn collega's waren we verantwoordelijk voor de bouw van
         allerlei soorten webapplicaties. Technieken die hier voornamelijk een
         rol spelen zijn React JS en C# Web API's.
       </p>
+      <p>Per juni 2023 ben ik weer terug bij <a
+          href="https://www.ster.nl/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Ster (Stichting Etherreclame)
+        </a>. Daar draai ik mee als technisch verantwoordelijke bij de bouw van diverse IT-projecten.</p>
     </section>
 
     <section>
